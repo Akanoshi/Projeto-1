@@ -1,3 +1,18 @@
+.caixas {
+    background-color: rgb(212, 212, 212);
+    border: 2px solid rgb(223, 213, 213);
+    
+}
 body{
-    background-color: rgb(77, 240, 191);
+    background-color: rgb(194, 221, 214);
+    border: 2px solid rgb(194, 194, 194);
+    
+    
+}
+.caixas {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left:-110px;
+    margin-top:-40px;
 }
