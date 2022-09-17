@@ -1,18 +1,30 @@
-.caixas {
-    background-color: rgb(212, 212, 212);
-    border: 2px solid rgb(223, 213, 213);
+@font-face {
+    font-family: 'Merriweather';
+    src: url(Merriweather-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1,body {
+    font-family: 'Merriweather';
+
     
 }
 body{
-    background-color: rgb(194, 221, 214);
-    border: 2px solid rgb(194, 194, 194);
+    background-color: rgb(207, 223, 219);
+   
     
     
 }
+
 .caixas {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    margin-left:-110px;
-    margin-top:-40px;
+    text-align: center;
+    
 }
+h1 {
+    background-color: antiquewhite;
+    border-style: double;
+}
+
+
