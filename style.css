@@ -6,7 +6,7 @@
 
 }
 
-h1,body {
+h1,body,::placeholder {
     font-family: 'Merriweather';
 
     
@@ -28,3 +28,10 @@ h1 {
 }
 
 
+
+ 
+img {
+
+
+border-radius: 50%;
+}
