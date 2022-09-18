@@ -20,7 +20,7 @@ body{
 
 .caixas {
     text-align: center;
-    
+    width: 100%;
 }
 h1 {
     background-color: antiquewhite;
